@@ -87,7 +87,7 @@ z-index: 1000;
 </div>
 </div>
 <div class="w-1/2">
-<img src="https://public.readdy.ai/ai/img_res/c474082b5a606202d1fefb1c7d0e5111.jpg" alt="Hero Image" class="rounded-lg shadow-lg">
+<img src="https://github.com/mraia942/qwertyspresentations.github.io/edit/main/Secure%20File%20Sale%20Platform.html%202.txt#L90C13-L90C22-lg">
 </div>
 </div>
 </div>
